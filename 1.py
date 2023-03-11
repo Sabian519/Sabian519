@@ -5,7 +5,7 @@ import random
 import sys
 
 def usage():
-    print " gilbertneedcafein "
+    print " DDOS BY GILBERT "
     print "# KOMINFO KONTOLLLL"
 
 def flood(victim, vport, duration):
