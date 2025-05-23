@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sabian and I'm a SA-MP Developer, from West Java</h2>
+<h2 align="left">Hi 👋! My name is Sabian and I'm a Game Developer / BackEnd Developer, from West Java</h2>
 
 ###
 
